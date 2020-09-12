@@ -1,4 +1,4 @@
-## mysql忘记密码怎么办？##:droplet:
+## mysql忘记密码怎么办？:droplet:
 1、找到my.ini 文件
 my.ini 文件为 MySQl 设置文件， 如果你是默认的安装地址，文件在
 C:\ProgramData\MySQL\MySQL Server 5.7 下
