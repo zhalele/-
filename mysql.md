@@ -15,7 +15,7 @@ C:\ProgramData\MySQL\MySQL Server 5.7 下
 首先先选择 mysql 数据库  **use mysql**
 然后更新 password
 
- **update user set authentication_string = password ( 'new-password' ) where user = 'root' ; **
+ **update user set authentication_string = password ( 'new-password' ) where user = 'root' ;**
  
  6、重启，以新密码登录:sun_with_face:
 
